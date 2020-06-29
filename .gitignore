@@ -1,0 +1,10 @@
+# mac junk
+.DS_Store
+
+
+# Micosoft stuff
+.mono/
+Microsoft\\VisualStudio\ Services/
+NuGet/
+stetic/
+xbuild/
