@@ -8,3 +8,10 @@ Microsoft\\VisualStudio\ Services/
 NuGet/
 stetic/
 xbuild/
+
+
+# QT stuff
+QtProject/
+
+# fish stuff
+fish/fish_variables
