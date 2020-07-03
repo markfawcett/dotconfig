@@ -9,6 +9,9 @@ NuGet/
 stetic/
 xbuild/
 
+# node stuff - I don't know what this does...
+configstore/update-notifier-npm.json
+
 
 # QT stuff
 QtProject/
