@@ -18,3 +18,5 @@ QtProject/
 
 # fish stuff
 fish/fish_variables
+# don't need fundle as it gets installed via `fundle install`
+fish/fundle/
