@@ -7,6 +7,11 @@ set -x fish_user_paths /Library/Frameworks/Python.framework/Versions/3.8/bin /Ap
 fundle plugin 'sentriz/fish-pipenv'
 fundle init
 
+# abbreviation for diff2html
+# This is specifically for files with git version control
+# otherwise use htmldiff
+abbr -a -g d2h diff2html -s side -- --no-color
+
 
 # set if your term supports `pipenv shell --fancy`
 set pipenv_fish_fancy yes
